@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+  <title>Arinze Okorji</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://imgur.com/x6Eu9L5");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: none;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    div {
+      margin-top: 8.5%;
+    }
+    #space {
+      margin-top: 7%}
+    
+  </style>
+</head>
+<body>
+<div>
+  <h1>Arinze Okorji</h1>
+  <div id="space">
+  <p>Hi! I'm Arinze, a UI/UX designer and front-end developer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+  </div>
+  </div>
+</body>
